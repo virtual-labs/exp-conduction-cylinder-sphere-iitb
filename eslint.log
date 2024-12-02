@@ -1,0 +1,191 @@
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/js/activity1.js
+   15:9    warning  'MathJax' is not defined                        no-undef
+   19:10   warning  'start_act1' is defined but never used          no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined          no-undef
+   33:71   warning  'd1_a1' is not defined                          no-undef
+   33:107  warning  'd2_a1' is not defined                          no-undef
+   34:55   warning  'T1_a1' is not defined                          no-undef
+   34:72   warning  'T2_a1' is not defined                          no-undef
+   48:24   warning  Unnecessary escape character: \π                no-useless-escape
+   48:28   warning  Unnecessary escape character: \∫                no-useless-escape
+   48:63   warning  Unnecessary escape character: \∫                no-useless-escape
+   66:5    warning  'hide_all_steps' is not defined                 no-undef
+   68:9    warning  'MathJax' is not defined                        no-undef
+   71:9    warning  'show_step' is not defined                      no-undef
+   76:5    warning  'd1_a1' is not defined                          no-undef
+   76:24   warning  'random' is not defined                         no-undef
+   77:5    warning  'd2_a1' is not defined                          no-undef
+   77:24   warning  'random' is not defined                         no-undef
+   78:5    warning  'r1_a1' is not defined                          no-undef
+   78:25   warning  'd1_a1' is not defined                          no-undef
+   79:5    warning  'r2_a1' is not defined                          no-undef
+   79:25   warning  'd2_a1' is not defined                          no-undef
+   80:5    warning  'T1_a1' is not defined                          no-undef
+   80:13   warning  'random1' is not defined                        no-undef
+   81:5    warning  'T2_a1' is not defined                          no-undef
+   81:13   warning  'random1' is not defined                        no-undef
+   82:5    warning  'Q_L_a1' is not defined                         no-undef
+   85:24   warning  'T1_a1' is not defined                          no-undef
+   85:32   warning  'T2_a1' is not defined                          no-undef
+   86:37   warning  'T1_a1' is not defined                          no-undef
+   86:58   warning  'T2_a1' is not defined                          no-undef
+   87:22   warning  'r2_a1' is not defined                          no-undef
+   87:30   warning  'r1_a1' is not defined                          no-undef
+   88:26   warning  'd1_a1' is not defined                          no-undef
+   89:26   warning  'd2_a1' is not defined                          no-undef
+   90:26   warning  'r1_a1' is not defined                          no-undef
+   91:26   warning  'r2_a1' is not defined                          no-undef
+   92:26   warning  'T1_a1' is not defined                          no-undef
+   93:26   warning  'T2_a1' is not defined                          no-undef
+   94:27   warning  'Q_L_a1' is not defined                         no-undef
+   96:10   warning  'a1_verify_Q' is defined but never used         no-unused-vars
+   98:17   warning  'Q_L_a1' is not defined                         no-undef
+   99:10   warning  'verify_values' is not defined                  no-undef
+   99:47   warning  'Q_L_a1' is not defined                         no-undef
+  113:42   warning  'Q_L_a1' is not defined                         no-undef
+  123:9    warning  'MathJax' is not defined                        no-undef
+  126:10   warning  'activity_completed' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/js/activity2.js
+   2:10   warning  'activity2' is defined but never used    no-unused-vars
+   5:20   warning  'get_collapse_btn_text' is not defined   no-undef
+  13:69   warning  'd1_a2' is not defined                   no-undef
+  13:105  warning  'd2_a2' is not defined                   no-undef
+  14:55   warning  'T1_a2' is not defined                   no-undef
+  14:72   warning  'T2_a2' is not defined                   no-undef
+  27:24   warning  Unnecessary escape character: \π         no-useless-escape
+  27:65   warning  Unnecessary escape character: \∫         no-useless-escape
+  43:5    warning  'maindiv' is not defined                 no-undef
+  44:5    warning  'hide_all_steps' is not defined          no-undef
+  46:9    warning  'MathJax' is not defined                 no-undef
+  49:9    warning  'show_step' is not defined               no-undef
+  54:5    warning  'd1_a2' is not defined                   no-undef
+  54:24   warning  'random' is not defined                  no-undef
+  55:5    warning  'd2_a2' is not defined                   no-undef
+  55:24   warning  'random' is not defined                  no-undef
+  56:5    warning  'r1_a2' is not defined                   no-undef
+  56:25   warning  'd1_a2' is not defined                   no-undef
+  57:5    warning  'r2_a2' is not defined                   no-undef
+  57:25   warning  'd2_a2' is not defined                   no-undef
+  58:5    warning  'T1_a2' is not defined                   no-undef
+  58:13   warning  'random1' is not defined                 no-undef
+  59:5    warning  'T2_a2' is not defined                   no-undef
+  59:13   warning  'random1' is not defined                 no-undef
+  60:5    warning  'Q_a2' is not defined                    no-undef
+  61:25   warning  'r1_a2' is not defined                   no-undef
+  61:33   warning  'r2_a2' is not defined                   no-undef
+  61:41   warning  'K0_a2' is not defined                   no-undef
+  61:51   warning  'r2_a2' is not defined                   no-undef
+  61:59   warning  'r1_a2' is not defined                   no-undef
+  62:14   warning  'T1_a2' is not defined                   no-undef
+  63:17   warning  'T2_a2' is not defined                   no-undef
+  64:18   warning  'a_a2' is not defined                    no-undef
+  64:40   warning  'T1_a2' is not defined                   no-undef
+  64:61   warning  'T2_a2' is not defined                   no-undef
+  65:18   warning  'b_a2' is not defined                    no-undef
+  65:40   warning  'T1_a2' is not defined                   no-undef
+  65:61   warning  'T2_a2' is not defined                   no-undef
+  66:26   warning  'd1_a2' is not defined                   no-undef
+  67:26   warning  'd2_a2' is not defined                   no-undef
+  68:26   warning  'r1_a2' is not defined                   no-undef
+  69:26   warning  'r2_a2' is not defined                   no-undef
+  70:26   warning  'T1_a2' is not defined                   no-undef
+  71:26   warning  'T2_a2' is not defined                   no-undef
+  72:25   warning  'Q_a2' is not defined                    no-undef
+  74:10   warning  'a2_verify_Q' is defined but never used  no-unused-vars
+  76:17   warning  'Q_a2' is not defined                    no-undef
+  77:10   warning  'verify_values' is not defined           no-undef
+  77:47   warning  'Q_a2' is not defined                    no-undef
+  91:30   warning  'Q_a2' is not defined                    no-undef
+  99:9    warning  'MathJax' is not defined                 no-undef
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/js/data.js
+   4:5  warning  'r1_a1' is assigned a value but never used  no-unused-vars
+   5:5  warning  'r2_a1' is assigned a value but never used  no-unused-vars
+   6:5  warning  'T1_a1' is assigned a value but never used  no-unused-vars
+   7:5  warning  'T2_a1' is assigned a value but never used  no-unused-vars
+   8:5  warning  'Q_L_a1' is defined but never used          no-unused-vars
+  10:5  warning  'd1_a2' is assigned a value but never used  no-unused-vars
+  11:5  warning  'd2_a2' is assigned a value but never used  no-unused-vars
+  12:5  warning  'r1_a2' is assigned a value but never used  no-unused-vars
+  13:5  warning  'r2_a2' is assigned a value but never used  no-unused-vars
+  14:5  warning  'T1_a2' is assigned a value but never used  no-unused-vars
+  15:5  warning  'T2_a2' is assigned a value but never used  no-unused-vars
+  16:5  warning  'K0_a2' is assigned a value but never used  no-unused-vars
+  17:5  warning  'a_a2' is assigned a value but never used   no-unused-vars
+  18:5  warning  'b_a2' is assigned a value but never used   no-unused-vars
+  19:5  warning  'Q_a2' is defined but never used            no-unused-vars
+
+/home/runner/work/exp-conduction-cylinder-sphere-iitb/exp-conduction-cylinder-sphere-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+✖ 164 problems (0 errors, 164 warnings)
+
