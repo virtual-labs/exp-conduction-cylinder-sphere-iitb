@@ -64,7 +64,7 @@
 
     <p>
         q &ne; f(r) &because; steady state and no heat generation <br>
-        A = f(r)   For a sphere at radius 'r', A = &pi; r^2 <br>
+        A = f(r)   For a sphere at radius 'r', A = &pi; r<sup>2</sup> <br>
         K = f(T) <br>
     </p>
 
