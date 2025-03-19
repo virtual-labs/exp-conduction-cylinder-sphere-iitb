@@ -78,4 +78,7 @@
 
     <p>
         $$ q = 4 \pi \frac{[\frac{m}{2} [T_1^2 - T_2^2] + C [T_1 - T_2]]}{[\frac{1}{r_1} - \frac{1}{r_2}]} $$
-    </p><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+    </p>
+
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
